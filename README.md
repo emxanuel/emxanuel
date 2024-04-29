@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emxanuel" alt="emxanuel" /></a> </p>
 
-- 🔭 I’m currently working on [My own social network](https://sn-uvjj.onrender.com/)
+- 🔭 I’m currently working on [Programming learning blog](https://blog-programacion-gilt.vercel.app/)
 
 - 🌱 I’m currently learning **React Native**
 
